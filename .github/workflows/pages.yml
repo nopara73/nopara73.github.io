@@ -1,4 +1,4 @@
-name: Publish compatibility redirects
+name: Publish Nomadic Method entry point
 
 on:
   push:
