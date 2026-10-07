@@ -1,8 +1,8 @@
-name: Publish Nomadic Method entry point
+name: Publish account homepage
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
